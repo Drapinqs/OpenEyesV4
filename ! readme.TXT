@@ -1,4 +1,4 @@
-\\ Website Design created by Jagger Horne for 2024 FBLA Regionals\\
+\\ Website Development and Coding created by Jagger Horne for 2024 FBLA State\\
 
 Copyright Permissions are in the folder; "files\Copyright Proof"
 
